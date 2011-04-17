@@ -1,0 +1,4 @@
+Langauge: Java
+Database: Amazon SimpleDB
+
+Scan the 33,000 books in Project Gutenberg and store it's WordCount in SimpleDB.
